@@ -23,3 +23,7 @@ A simple and interactive web-based drawing application built using **HTML**, **C
    ```bash
    git clone https://github.com/your-username/drawing-app.git
    cd drawing-app
+
+## 📸 Preview
+
+<img src="drawing-app-preview.png" alt="Drawing App Preview" width="600"/>
